@@ -46,13 +46,13 @@
 <summary>🚀 <strong>Software Development & Web Applications</strong></summary>
 
 - [E-Commerce-PHP](https://github.com/assadullaalgalib/E-Commerce-PHP) – PHP-based e-commerce platform with dynamic product display, categories, and shopping cart.  
-- [TeamSync – A Smart Team Management Platform](https://github.com/assadullaalgalib/TeamSync-A-Smart-Team-Management-Platform---Software-Requirement-Engineering-) – ReactJS + PostgreSQL app for project tracking and client communication.  
-- [UniHub-Software-Engineering](https://github.com/assadullaalgalib/UniHub-Software-Engineering) – University project management platform.  
+- [TeamSync – A Smart Team Management Platform](https://github.com/assadullaalgalib/TeamSync-A-Smart-Team-Management-Platform---Software-Requirement-Engineering-) – ReactJS + PostgreSQL app for project tracking and client communication.    
 - [Currency Converter](https://github.com/assadullaalgalib/Currency-Converter) – Real-time currency exchange using Open ExchangeRate API.  
-- [Amozone Clone](https://github.com/assadullaalgalib/Amozone-clone) – HTML/CSS e-commerce UI clone.  
-- [Event Buddy – Event Management System](https://github.com/assadullaalgalib/Event-Buddy-Event-Management-System--Test-Plan-) – Event scheduling and booking platform.  
-- [Ghuri – A Travel Guide](https://github.com/assadullaalgalib/Ghuri) – Tourism management system with booking & itinerary planning.  
-- [UniHub Management System (Asana)](https://github.com/assadullaalgalib/Unihub-management-System) – Simulated project management lifecycle in Asana.  
+- [Amozone Clone](https://github.com/assadullaalgalib/Amozone-clone) – HTML/CSS e-commerce UI clone.
+- [C-Sharp Projects](https://github.com/assadullaalgalib/C-sharp) – Desktop apps & CRUD systems in C#.  
+- [Bike Shop Management System](https://github.com/assadullaalgalib/Bike_shop_Management_System) – C# inventory and sales management software.  
+- [Real Time Clock with Alarm](https://github.com/assadullaalgalib/Real_Time_Clock_With_Alarm-microprossesor-project-) – C++ microprocessor project. 
+  
 
 </details>
 
@@ -63,22 +63,23 @@
 - [Amazon E-commerce Testing](https://github.com/assadullaalgalib/Amazon-Ecommerce-Testing-) – Manual test cases for Home, Search, Cart, Checkout, and Orders.  
 - [OrangeHRM – Login Functionality Testing](https://github.com/assadullaalgalib/OrangeHRM-Login-Testing) – Positive/negative, UI, and security-based login tests.  
 - [Digital Document Artifacts Archive System – Test Plan](https://github.com/assadullaalgalib/Digital-Document-Artifacts-Archive-System-Test-plan) – Test coverage for digital document storage system.  
-- [Event Buddy – Test Plan](https://github.com/assadullaalgalib/Event-Buddy-Event-Management-System--Test-Plan-) – Feature, usability, and performance-based testing.  
+- [Event Buddy – Test Plan](https://github.com/assadullaalgalib/Event-Buddy-Event-Management-System--Test-Plan-) – Feature, usability, and performance-based testing.
+- [Ghuri – A Travel Guide](https://github.com/assadullaalgalib/Ghuri) – Tourism management system with booking & itinerary planning.  
+- [UniHub Management System (Asana)](https://github.com/assadullaalgalib/Unihub-management-System) – Simulated project management lifecycle in Asana.
+- [UniHub-Software-Engineering](https://github.com/assadullaalgalib/UniHub-Software-Engineering) – University project management platform.
 
 </details>
 
 <details>
 <summary>💻 <strong>Programming Projects</strong></summary>
 
-- [Scientific Calculator](https://github.com/assadullaalgalib/SCIENTIFIC-CALCULATOR-) – C++ console-based calculator with trigonometric & logarithmic functions.  
-- [Rock Paper Scissors Game](https://github.com/assadullaalgalib/Rock-Paper-Scissors-Game) – JavaScript-based game.  
+- [Scientific Calculator](https://github.com/assadullaalgalib/SCIENTIFIC-CALCULATOR-) – C++ console-based calculator with trigonometric & logarithmic functions.   
 - [Super Mario Game](https://github.com/assadullaalgalib/Super-mario-game-) – C++ graphics-based Mario clone.  
-- [Tic-Tac-Toe](https://github.com/assadullaalgalib/Tic-Tac-Toe) – JavaScript game logic & UI.  
-- [Java Projects](https://github.com/assadullaalgalib/java-) – Java OOP and problem-solving exercises.  
-- [C-Sharp Projects](https://github.com/assadullaalgalib/C-sharp) – Desktop apps & CRUD systems in C#.  
-- [Bike Shop Management System](https://github.com/assadullaalgalib/Bike_shop_Management_System) – C# inventory and sales management software.  
-- [Real Time Clock with Alarm](https://github.com/assadullaalgalib/Real_Time_Clock_With_Alarm-microprossesor-project-) – C++ microprocessor project.  
-- [Compiler Design](https://github.com/assadullaalgalib/Compiler_Design) – C++ compiler functions for parsing and tokenizing.  
+- [Java Projects](https://github.com/assadullaalgalib/java-) – Java OOP and problem-solving exercises.   
+- [Compiler Design](https://github.com/assadullaalgalib/Compiler_Design) – C++ compiler functions for parsing and tokenizing.
+- [Python Data Projects](https://github.com/assadullaalgalib/python) – Jupyter Notebook analysis scripts.  
+- [toph_code](https://github.com/assadullaalgalib/toph_code) – Competitive programming problem solutions.  
+
 
 </details>
 
@@ -89,7 +90,9 @@
 - [Google Clone](https://github.com/assadullaalgalib/Google-clone) – CSS-based Google homepage clone.  
 - [CSS Practice](https://github.com/assadullaalgalib/CSS) – Styling exercises.  
 - [Personal Profile Page](https://github.com/assadullaalgalib/personal-profile-page) – HTML/CSS personal webpage.  
-- [HTML Projects](https://github.com/assadullaalgalib/HTML) – Basic HTML website layouts.  
+- [HTML Projects](https://github.com/assadullaalgalib/HTML) – Basic HTML website layouts.
+- [Tic-Tac-Toe](https://github.com/assadullaalgalib/Tic-Tac-Toe) – JavaScript game logic & UI.
+- [Rock Paper Scissors Game](https://github.com/assadullaalgalib/Rock-Paper-Scissors-Game) – JavaScript-based game. 
 
 </details>
 

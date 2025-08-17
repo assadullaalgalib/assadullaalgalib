@@ -6,25 +6,24 @@
 ---
 
 ## 👨‍💻 About Me  
-👨‍💻 About Me
 
-💼 Software Engineer passionate about Software Quality Assurance (SQA), Management Information Systems (MIS), and full-stack development
+-💼 Software Engineer passionate about Software Quality Assurance (SQA), Management Information Systems (MIS), and full-stack development
 
-🎓 BSc in Computer Science & Engineering student at AIUB
+-🎓 BSc in Computer Science & Engineering student at AIUB
 
-🛠 Skilled in manual & automation testing (Selenium IDE, unit testing), Agile workflows, project documentation, CRUD operations, and database design
+-🛠 Skilled in manual & automation testing (Selenium IDE, unit testing), Agile workflows, project documentation, CRUD operations, and database design
 
-📊 Proficient in MIS tools, database management (MySQL, SQL Server, Oracle), data analysis, and report generation for informed business decisions
+-📊 Proficient in MIS tools, database management (MySQL, SQL Server, Oracle), data analysis, and report generation for informed business decisions
 
-💻 Programming & Web Development: C++, Java, C#, PHP, HTML, CSS, JavaScript, React (learning), Node.js (learning)
+-💻 Programming & Web Development: C++, Java, C#, PHP, HTML, CSS, JavaScript, React (learning), Node.js (learning)
 
-🛠 Tools & Platforms: Asana, GitHub, Confluence, Microsoft Teams, Jira (basic), Visual Studio, VS Code, Figma
+-🛠 Tools & Platforms: Asana, GitHub, Confluence, Microsoft Teams, Jira (basic), Visual Studio, VS Code, Figma
 
-💡 Experienced in version control, team collaboration, requirement analysis, and software documentation
+-💡 Experienced in version control, team collaboration, requirement analysis, and software documentation
 
-🌱 Currently learning advanced testing techniques, full-stack development, and cloud deployment basics
+- 🌱 Currently learning **React, Node.js**, and **advanced testing techniques**
 
-🤝 Soft Skills: Analytical thinking, problem-solving, teamwork, communication, adaptability, and time management
+-🤝 Soft Skills: Analytical thinking, problem-solving, teamwork, communication, adaptability, and time management
 - 📫 **Reach me at:** [assadullaalgalib12@gmail.com](mailto:assadullaalgalib12@gmail.com)  
 
 ---

@@ -1,4 +1,4 @@
-# **Assalamu Alaikum"Assalamu alaykum** 👋, I'm **MD. ASSADULLA AL GALIB**  
+# **Assalamu Alaikum**, I'm **MD. ASSADULLA AL GALIB**  
 **Software Engineer | SQA Enthusiast | MIS Learner | Aspiring Project Manager**  
 
 💻 *“Debugging today to build a better tomorrow.”*  

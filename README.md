@@ -2,9 +2,7 @@
 **Software Engineer | SQA Enthusiast | MIS Learner | Aspiring Project Manager**  
 
 💻 *“Debugging today to build a better tomorrow.”*  
-
 ---
-
 ## 👨‍💻 About Me  
 
 -💼 Software Engineer passionate about Software Quality Assurance (SQA), Management Information Systems (MIS), and full-stack development
